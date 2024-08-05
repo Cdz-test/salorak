@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Cdz-test.github.io/salorak/sitemap.xml
